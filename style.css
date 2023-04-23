@@ -19,6 +19,9 @@ header{
     padding: 10px 100px ;
 }
 
+.hidden {
+    background: url(images/logo.png) no-repeat;
+}
 .logo{
     text-decoration: none;
     color: #b6adad;
